@@ -6,6 +6,12 @@ This is the front-end project for a weather application. It provides the UI for 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Installation
+
+# Clone this repository:
+
+git clone https://github.com/Sharnakhan/weather-app.git
+
 ## Available Scripts
 
 In the project directory, you can run:
